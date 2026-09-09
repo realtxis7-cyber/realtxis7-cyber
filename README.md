@@ -26,14 +26,6 @@
 
 ![Node.js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-#
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=realtxis7-cyberrealtxis7&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realtxis7-cyber&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
